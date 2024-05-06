@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
+[DEMO](https://khomichyehor.github.io/todoApp/)
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+I am the Front-End developer who created this app. My goal was to show you my skills in practice, to create an application that represents the Todo-app. During development, I implemented all the necessary functionality for the above application, used: BEM methodology, React, TypeScript, SCSS.
